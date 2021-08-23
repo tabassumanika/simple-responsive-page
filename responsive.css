@@ -1,0 +1,16 @@
+@media screen and (max-width: 700px) {
+	body{
+		background: pink; 
+	}
+	h1{
+		font-size: 50px;
+	}
+}
+@media screen and (max-width: 400px) {
+	body{
+		background: lavender; 
+	}
+	h1{
+		font-size: 40px;
+	}
+}

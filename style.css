@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.normal{
+	height: 500px;
+	background: aqua;
+}
+h1{
+	font-size: 90px;
+	color: blueviolet;
+	
+	text-align: center;
+}
+body{
+	background: aqua;
+}
